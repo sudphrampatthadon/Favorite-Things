@@ -1,0 +1,8 @@
+
+Create a field of lists, my favorite things
+1. side bar
+
+
+Feature
+1. Add Favorite
+2. Link app
